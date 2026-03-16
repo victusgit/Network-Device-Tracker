@@ -7,5 +7,5 @@ The program will eventually allow users to add multiple devices, store them in a
 ---
 
 ## Videos
-- [Code Demo](https://www.youtube.com/watch?v=...)
-- [Code Walkthrough](https://www.youtube.com/watch?v=...)
+- [Code Demo](https://youtu.be/I-8Qjb3RaNA)
+- [Code Walkthrough](https://youtu.be/vFSZYi70fPk)
